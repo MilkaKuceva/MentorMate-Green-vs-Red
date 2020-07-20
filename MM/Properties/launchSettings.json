@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Example 1": {
+      "commandName": "Project",
+      "commandLineArgs": "3 3 000 111 000 1 0 10"
+    },
+    "Example 2": {
+      "commandName": "Project",
+      "commandLineArgs": "4 4 1001 1111 0100 1010 2 2 15"
+    }
+  }
+}
