@@ -1,4 +1,4 @@
-# MentorMate-Red-vs-Green
+# MentorMate-Green-vs-Red
 
 MentorMate-Red-vs-Green is a .NET Core 3.1 ConsoleApp.
 
